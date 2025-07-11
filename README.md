@@ -1,3 +1,3 @@
-# locadora-veiculos
+# Locadora de veiculos
 Este projeto consiste no desenvolvimento de um site para o gerenciamento de uma locadora de carros, atendendo aos requisitos técnicos definidos em sala de aula. A aplicação permite o cadastro e login de usuários, com validação de campos e proteção de rotas por autenticação via JSON Web Tokens (JWT).
 O sistema conta com funcionalidades CRUD para gerenciar os veículos disponíveis, possibilitando cadastrar, atualizar, visualizar e excluir informações dos carros. A comunicação entre front-end e back-end é feita por meio de verbos HTTP (GET, POST, PUT e DELETE) e os dados são armazenados em arquivos JSON. A aplicação consome também uma API externa. 
