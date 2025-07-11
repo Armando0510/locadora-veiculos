@@ -44,7 +44,7 @@ cd [NOME_DO_REPOSITORIO]
 
 # Instale as dependências:
 npm install
-# ou
+ou
 yarn install
 
 # Configuração do Backend:
@@ -58,7 +58,7 @@ JWT_SECRET="sua_chave_secreta_jwt"
 
 # Para iniciar o servidor de desenvolvimento:
 npm run dev
-# ou
+ou
 yarn dev
 
 Confira a [Apresentação do Projeto (PDF)](./Apresentação%20Locadora%20de%20Carros%20-%20Web%20(2).pdf).
