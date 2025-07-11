@@ -70,4 +70,4 @@ JWT_SECRET="sua_chave_secreta_jwt"
 npm run dev
 ```
 
-Confira a [Apresentação do Projeto (PDF)](./Apresentação%20Locadora%20de%20Carros%20-%20Web%20(2).pdf).
+Confira a [Apresentação do Projeto (PDF)](./Apresentacao.pdf).
