@@ -60,3 +60,5 @@ JWT_SECRET="sua_chave_secreta_jwt"
 npm run dev
 # ou
 yarn dev
+
+Confira a [Apresentação do Projeto (PDF)](./ApresentaçãoLocadoradeCarros-Web(2).pdf).
