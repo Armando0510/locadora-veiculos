@@ -212,7 +212,7 @@ export default function Dashboard() {
 
       <footer className={styles.footer}>
         <a
-          href="https://github.com/seu-usuario/projeto-carros"
+          href="https://github.com/Armando0510/locadora-veiculos"
           target="_blank"
           rel="noopener noreferrer"
           className={styles.footerLink}
