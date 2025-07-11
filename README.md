@@ -1,5 +1,16 @@
+<!-- ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/Armando0510/locadora-veiculos/build.yml?label=Actions) -->
+![No Status](https://img.shields.io/badge/status-no%20status-lightgrey)
+![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-v15.3.5-000000?logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-v24.1.0-339933?logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-v11.3.0-CB3837?logo=npm)
+
 # Locadora de veiculos
 Bem-vindo ao repositório do projeto de locadora de carros! Esta aplicação web, desenvolvida com Next.js e React, permite que usuários autenticados gerenciem um catálogo de veículos, com funcionalidades de cadastro, listagem, edição e exclusão de carros. Além disso, ela se integra à API da FIPE para facilitar o preenchimento de dados de marcas e modelos.
+
+<p align="center">
+  <img src="projeto-locadora-images.png">
+</p>
 
 ## Funcionalidades
 Autenticação de Usuário: Sistema de login para acesso seguro ao dashboard.
@@ -33,7 +44,7 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 - Para executar este projeto em sua máquina local, siga os passos abaixo:
 
 ### Pré-requisitos
-- Certifique-se de ter o Node.js (versão v24.1.0) e o npm (versão 11.3.0).
+- Certifique-se de que o Node.js (v24.1.0), o npm (v11.3.0) e o Next.js (v15.3.5) estejam instalados no ambiente.
 
 ### Instalação
 Clone o repositório:
