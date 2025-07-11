@@ -1,6 +1,3 @@
-<!-- ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/Armando0510/locadora-veiculos/build.yml?label=Actions) -->
-![No Status](https://img.shields.io/badge/status-no%20status-lightgrey)
-![Made with Next.js](https://img.shields.io/badge/Made%20with-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-v15.3.5-000000?logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-v24.1.0-339933?logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-v11.3.0-CB3837?logo=npm)
