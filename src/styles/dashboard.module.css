@@ -1,0 +1,170 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #111;
+  min-height: 100vh;
+  color: #fff;
+  padding: 32px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.title {
+  font-size: 28px;
+}
+
+.logoutBtn {
+  padding: 10px 18px;
+  background-color: #c00;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.formWrapper {
+  max-width: 600px;
+  margin: 0 auto 48px;
+}
+
+.toggleBtn {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  background-color: #222;
+  color: #FFD700;
+  border: 1px solid #FFD700;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.formTitle {
+  margin-bottom: 16px;
+}
+
+.select,
+.input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  background-color: #222;
+  color: #fff;
+  border: 1px solid #333;
+}
+
+.submitBtn {
+  width: 100%;
+  padding: 12px;
+  background-color: #FFD700;
+  color: #000;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.listaWrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  flex: 1;
+}
+
+.listaTitle {
+  margin-bottom: 16px;
+}
+
+.grid {
+  display: grid;
+  gap: 16px;
+}
+
+.card {
+  background-color: #1c1c1c;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.cardImg {
+  width: 100px;
+  height: 70px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #444;
+}
+
+.cardInfo {
+  flex-grow: 1;
+}
+
+.cardModelo {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.cardDetalhes {
+  color: #aaa;
+}
+
+.cardBotoes {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.btnGrey {
+  padding: 8px 12px;
+  background-color: #444;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btnRed {
+  padding: 8px 12px;
+  background-color: #c00;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.footer {
+  margin-top: auto;
+  padding-top: 20px;
+  font-size: 11px;
+  color: #444;
+  text-align: center;
+}
+
+.footerLink {
+  display: block;
+  margin: 0 auto 6px;
+  width: 24px;
+}
+
+.githubLogo {
+  margin-top: 100px;
+  width: 24px;
+  height: 24px;
+  filter: invert(80%);
+  transition: transform 0.2s;
+}
+
+.githubLogo:hover {
+  transform: scale(1.1);
+}
+
+.footerText {
+  line-height: 1.3;
+}

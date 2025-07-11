@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1752020549874,
+    "email": "brunohfelix.contato@gmail.com",
+    "usuario": "Bruno",
+    "senha": "$2b$10$cRf3dRASnCgDdxeU80qvOeszky210TRs6D1KmJX5DQ8ttTf0jSLGC"
+  },
+  {
+    "id": 1752105285913,
+    "email": "teste@gmail.com",
+    "usuario": "teste",
+    "senha": "$2b$10$0x34Sfstu1qmAF6AEUi/Te6mJSNGvNzl9A0XoigBArBva2FroZwAO"
+  },
+  {
+    "id": 1752106961134,
+    "email": "teste2@gmail.com",
+    "usuario": "teste",
+    "senha": "$2b$10$OESRRBU9z043j1PzRgpX5.xkMM6kuMVQqIlUJPJy1rmVY9xncgrvO"
+  },
+  {
+    "id": 1752109571997,
+    "email": "teste4@gmail.com",
+    "usuario": "teste",
+    "senha": "$2b$10$HMcRg/EZqC.Kt5yPMU3xre63NvTFlTpMWAhvffrq4VoTNndTjyDdy"
+  },
+  {
+    "id": 1752113788071,
+    "email": "teste7@gmail.com",
+    "usuario": "teste",
+    "senha": "$2b$10$1BfwfAzDkBA/Z6cEIQYgKODq1aWTk6.Z9LNV4g8F6XQtDtOUHFxlK"
+  }
+]
